@@ -2,7 +2,7 @@
 
 /**
  * main - prints various sizes
- * Return 0 if exited properly, non-zero otherwise
+ * Return: always 0 if exited properly, non-zero otherwise
  */
 
 int main(void)
