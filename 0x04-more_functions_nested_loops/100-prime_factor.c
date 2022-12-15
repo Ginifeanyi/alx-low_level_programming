@@ -2,7 +2,7 @@
 
 /**
  * main - prints largest prime factor
- * Rrturn: Always 0
+ * Return: Always 0
  */
 
 int main(void)
@@ -18,6 +18,6 @@ int main(void)
 			fp--;
 		}
 	}
-	printf("%d\n", fp);
+	printf("%1d\n", fp);
 	return (0);
 }
