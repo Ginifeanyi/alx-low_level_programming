@@ -2,7 +2,6 @@
 
 /**
  * print_numbers - prints numbers from 0 to 9
- * @c: character to input numbers
  * Return: void
  */
 
