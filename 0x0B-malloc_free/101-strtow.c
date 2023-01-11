@@ -3,7 +3,7 @@
 
 /**
  * count_word - helper function to count the number of words in a string
- * @s: string to evaluate
+ * @s: string to be evaluated
  *
  * Return: number of words
  */
@@ -29,7 +29,7 @@ int count_word(char *s)
 }
 /**
  * **strtow - splits a string into words
- * @str: string to split
+ * @str: string to be splited
  *
  * Return: pointer to an array of strings (Success)
  * or NULL (Error)

@@ -2,8 +2,7 @@
 #include "main.h"
 
 /**
- * argstostr - a function that concatenates
- *             all the arguments
+ * argstostr - a function that concatenates all the arguments
  *
  * @ac: argument counter
  * @av: argument holder
