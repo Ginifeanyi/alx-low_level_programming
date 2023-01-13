@@ -1,10 +1,10 @@
 #include <stdlib.h>
 
 /**
- * array_range - creates an array of integers
+ * array_range - creates an array of integers.
  *
- * @min: min number of elements
- * @max: max number of elements
+ * @min: minimum number of elements
+ * @max: maximum number of elements
  *
  * Return: array pointer address
  *         NULL if it fails
