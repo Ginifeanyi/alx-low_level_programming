@@ -3,9 +3,9 @@
 /**
  * _realloc - reallocate a memory block using malloc and free
  *
- * @ptr: pointer to previous memory
- * @old_size: old memory array size
- * @new_size: new memory array size
+ * @ptr: pointer to previous memory.
+ * @old_size: old memory array size.
+ * @new_size: new memory array size.
  *
  * Return: pointer to new memory
  *         NULL if it fails
