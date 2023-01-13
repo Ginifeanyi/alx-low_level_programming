@@ -1,9 +1,9 @@
 #include <stdlib.h>
 
 /**
- * _memset - fills memory with a constant byte
+ * _memset - fills the memory with a constant byte
  *
- * @s: input pointer that represents memory
+ * @s: inputs pointer that represents memory
  *     block to fill
  * @b: characters to fill
  * @n: number of bytes to be filled
@@ -24,7 +24,7 @@ char *_memset(char *s, char b, unsigned int n)
  * _calloc - a function that allocates
  *           memory for an array using malloc
  *
- *           It is basically the equivalent to
+ *           It is basically equivalent to
  *           malloc followed by memset
  *
  * @nmemb: size of array
