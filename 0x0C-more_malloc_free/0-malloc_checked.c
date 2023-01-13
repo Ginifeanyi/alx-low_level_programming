@@ -1,7 +1,7 @@
 #include <stdlib.h>
 
 /**
- * malloc_checked - this function allocates memory using malloc
+ * malloc_checked - a function that allocates memory using malloc
  *
  * @b: the amount of bytes
  *
